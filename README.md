@@ -6,3 +6,8 @@ This application allows you to import your directirory on your computer and the 
 ![Terminal](pictures.png)
 ![CleanerApp](cleanerapp.png)
 
+To run this app make sure Python extensions are installed in your VsCode.
+1) Run Python file in dedicated terminal
+2) Copy the adress path of the directory you  want to sort
+3) Paste it into the enter path: and enter.
+
